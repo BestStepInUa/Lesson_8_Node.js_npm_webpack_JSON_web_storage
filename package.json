@@ -1,0 +1,16 @@
+{
+  "name": "lesson_8_node.js_npm_webpack_json_web_storage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./js/index.js"
+  },
+  "author": "Oleksandr Vasylenko <beststep.in.ua@gmail.com> (https://github.com/BestStepInUa)",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "validator": "^13.11.0"
+  }
+}
