@@ -34,7 +34,7 @@
 //! Ver 3
 import isEmail from "validator/lib/isEmail.js";
 import { mails } from "./mails.js";
-console.log(mails);''
+console.log(mails);
 
 mails.forEach((mail) =>
     console.log(`Is ${mail} a valid email?: `, isEmail(mail))
